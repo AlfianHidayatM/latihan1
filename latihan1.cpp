@@ -8,4 +8,9 @@ int main(){
 		cout <<"===========================\n";
 		cout <<"Masukan Angka atau bilangan\n";
 		cout <<"===========================\n"<<endl;
+	
+	cout <<"Masukan Nilai x = ";
+	cin >> x;
+	cout << "Masukan Nilai y = ";
+	cin >> y;	
 }
